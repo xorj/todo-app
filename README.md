@@ -16,4 +16,4 @@ The classic To-Do application where a user can write down all the things he want
 - [ ] User can see the date when he created the to-do
 - [ ] When closing the browser window the to-do's will be stored and when the User returns, the data will be retrieved
 
-## App ideia from @florinpop17
+### App ideia from https://github.com/florinpop17/app-ideas
