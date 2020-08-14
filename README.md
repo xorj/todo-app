@@ -1,7 +1,6 @@
-# To-Do App
-Tier: 2-Intermediate
+# [To-Do App](xorj.github.io/todo-app/)
 
-The classic To-Do application where a user can write down all the things he wants to accomplish.
+A react To-Do application where a user can write down all the things he wants to accomplish.
 
 # User Stories
  - [x] ~~User can see an input field where he can type in a to-do item~~
@@ -16,4 +15,6 @@ The classic To-Do application where a user can write down all the things he want
 - [ ] User can see the date when he created the to-do
 - [ ] When closing the browser window the to-do's will be stored and when the User returns, the data will be retrieved
 
-### App ideia from https://github.com/florinpop17/app-ideas
+### On Mobile
+
+![ON MOBILE] (https://user-images.githubusercontent.com/61337156/90245769-ad319080-de09-11ea-9c98-0cc1a447874d.png)
