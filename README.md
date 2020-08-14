@@ -17,4 +17,4 @@ A react To-Do application where a user can write down all the things he wants to
 
 ### On Mobile
 
-![ON MOBILE] (https://user-images.githubusercontent.com/61337156/90245769-ad319080-de09-11ea-9c98-0cc1a447874d.png)
+![ON MOBILE](https://user-images.githubusercontent.com/61337156/90245769-ad319080-de09-11ea-9c98-0cc1a447874d.png)
