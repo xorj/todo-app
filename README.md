@@ -1,4 +1,4 @@
-# [To-Do App](xorj.github.io/todo-app/)
+# [To-Do App](https://xorj.github.io/todo-app/)
 
 A react To-Do application where a user can write down all the things he wants to accomplish.
 
